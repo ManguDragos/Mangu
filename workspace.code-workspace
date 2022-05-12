@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\code with mosh"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mangu"
+  }
+}
